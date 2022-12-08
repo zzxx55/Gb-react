@@ -1,0 +1,14 @@
+.div {
+  color: #211c18;
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background: rgb(172, 207, 24);
+  background: linear-gradient(
+    90deg,
+    rgba(172, 207, 24, 1) 0%,
+    rgba(163, 46, 31, 1) 54%,
+    rgba(193, 94, 176, 1) 100%
+  );
+}
